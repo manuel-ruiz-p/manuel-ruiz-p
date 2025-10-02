@@ -12,7 +12,7 @@
 
 ### 🏅 Certifications
 
-![Azure Solutions Architect](https://img.shields.io/badge/Azure-DevOps_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Solutions Architect](https://img.shields.io/badge/Azure-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps Expert](https://img.shields.io/badge/Azure-DevOps_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Developer Associate](https://img.shields.io/badge/Azure-Developer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Administrator Associate](https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
